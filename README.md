@@ -13,3 +13,7 @@ Curso de ciências de dados oferecido pela <a href="https://codenation.dev/">Cod
 <a href="./Semana_4/Desafio/challenge04.md"> Desafio 03</a>
 
 <a href="./Semana_5/Desafio/challenge04.md"> Desafio 04</a>
+
+<a href="./Semana_6/Desafio/challenge05.md"> Desafio 05</a>
+
+<a href="./Semana_7/Desafio/challenge06.md"> Desafio 06</a>
