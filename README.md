@@ -2,7 +2,7 @@
 
 
 # AceleraDev Data Science
-Curso de ciências de dados oferecido pela <a href="https://codenation.dev/">Codenation</a>, cujo principal foco está no aprendizado através de projetos.
+Aulas e desafios do Aceleradev Data Science, oferecido pela <a href="https://codenation.dev/">Codenation</a> .
 
 ## Desafios
 
@@ -17,3 +17,7 @@ Curso de ciências de dados oferecido pela <a href="https://codenation.dev/">Cod
 <a href="./Semana_6/Desafio/challenge05.md"> Desafio 05</a>
 
 <a href="./Semana_7/Desafio/challenge06.md"> Desafio 06</a>
+
+<a href="./Semana_7/Desafio/challenge07.md"> Desafio 07</a>
+
+<a href="./Semana_7/Desafio/challenge08.md"> Desafio 08</a>
