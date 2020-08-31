@@ -18,6 +18,6 @@ Aulas e desafios do Aceleradev Data Science, oferecido pela <a href="https://cod
 
 <a href="./Semana_7/Desafio/challenge06.md"> Desafio 06</a>
 
-<a href="./Semana_7/Desafio/challenge07.md"> Desafio 07</a>
+<a href="./Semana_8/Desafio/challenge07.md"> Desafio 07</a>
 
-<a href="./Semana_7/Desafio/challenge08.md"> Desafio 08</a>
+<a href="./Semana_9/Desafio/challenge08.md"> Desafio 08</a>
